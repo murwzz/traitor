@@ -62,3 +62,5 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 text
 
 text2
+
+text3
