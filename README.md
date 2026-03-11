@@ -65,3 +65,5 @@ If the machine you're attempting privesc on cannot reach GitHub to download the 
 22222
 
 33333
+
+44444
